@@ -1,0 +1,17 @@
+header a{
+    color:aliceblue !important;
+}
+header span{
+    color:antiquewhite;
+    font-size: 5vh;
+    padding: 0;
+}
+
+header button {
+    padding: 0 !important;
+}
+.navbar-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between !important;
+}

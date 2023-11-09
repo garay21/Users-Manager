@@ -1,0 +1,7 @@
+.login-form-container{
+    background-color:rgba(75, 75, 75, 0.329);
+    border-radius: 10%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+}
